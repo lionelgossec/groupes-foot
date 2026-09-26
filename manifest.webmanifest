@@ -1,0 +1,10 @@
+{
+  "name": "Groupes Foot",
+  "short_name": "Groupes Foot",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#166534",
+  "lang": "fr",
+  "description": "Création et gestion de groupes de joueurs."
+}
