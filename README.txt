@@ -1,8 +1,7 @@
-Groupes Foot V14
+GROUPES FOOT V15
 
-Version prête pour publication comme PWA.
-Les joueurs et réglages sont stockés localement dans le navigateur (localStorage).
-Aucun nom de joueur n'est inclus dans le code publié.
-Pour alimenter un dossier, utiliser Importer (CSV/TXT) ou ajouter les joueurs manuellement.
+Version PWA avec icones d'installation Android.
+Les joueurs et reglages sont stockes localement dans le navigateur.
+Aucun nom de joueur n'est inclus dans le code publie.
 
-Publication GitHub Pages : déposer tous les fichiers à la racine du dépôt, puis activer Pages sur la branche main, dossier / (root).
+Pour mettre a jour GitHub Pages : remplacer les fichiers du depot par le contenu de ce dossier, puis attendre quelques minutes avant de recharger l'application.
