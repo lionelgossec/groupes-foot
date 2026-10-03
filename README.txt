@@ -1,4 +1,4 @@
-GROUPES FOOT V21
+GROUPES FOOT V22
 
 Version PWA avec icones d'installation Android.
 Les joueurs et reglages sont stockes localement dans le navigateur.
@@ -9,4 +9,4 @@ Pour mettre a jour GitHub Pages : remplacer les fichiers du depot par le contenu
 V18.1 : import/export souple avec champs facultatifs, postes, suppression de groupe, joueurs U9 préchargés.
 
 
-V21 : affichage responsive des groupes (adaptation automatique au nombre de colonnes), icônes de postes toujours visibles, surbrillance des joueurs verrouillés, et choix Niveau/Homogène pour compléter automatiquement une répartition manuelle.
+V22 : affichage responsive des groupes (adaptation automatique au nombre de colonnes), icônes de postes toujours visibles, surbrillance des joueurs verrouillés, et choix Niveau/Homogène pour compléter automatiquement une répartition manuelle.
